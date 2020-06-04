@@ -6,3 +6,10 @@ application_environments{
         long_name = "Production"
     }
 }
+projects{
+    foo{
+        id = 'My.Project.Api' 
+        threshold = 72   
+    }
+    
+}
